@@ -63,7 +63,8 @@ and grow as a professional.
 ## 🌐 Connect With Me
 - 🐙 GitHub: https://github.com/kaushikajay07  
 - 💼 LinkedIn: https://linkedin.com/in/ajay-kaushik-a56b47310  
-- ✉️ Email: kaushikji7579@gmail.com  
+- ✉️ Email: kaushikji7579@gmail.com
+- 💼 Portfolio: https://ak-coral.vercel.app/
 
 ---
 
