@@ -1,43 +1,33 @@
-👋 Hi, I’m Ajay Kaushik
+👋 Hey, I'm Ajay Kaushik
 
-I’m a final-year B.Tech Computer Science Engineering student (2022–2026) with a strong foundation in computer networks, database systems, and operating system basics.
-I have hands-on experience building Python-based system applications and working with structured data using SQL and MySQL.
+🎓 Final-year B.Tech CSE (2022–2026) student
+💻 Interested in Networking, Systems & Python Development
 
-I’m particularly interested in networking fundamentals and IT infrastructure, with practical understanding of:
+⚡ What I Work With
 
-OSI & TCP/IP models
+🐍 Python, 🗄️ SQL / MySQL
 
-Data flow across network layers
+🌐 Computer Networks (OSI, TCP/IP, IP basics)
 
-IP addressing & basic subnetting
+🧠 OOP, DBMS, OS fundamentals
 
-Networking devices like routers, switches, and firewalls
+🛠️ Projects Snapshot
 
-💻 Technical Skills
+📌 Student Management System – Python
 
-Programming: Python, SQL
+🏦 Banking System Simulation – Python
 
-Networking: OSI Model, TCP/IP, LAN/WAN, IP Addressing
+📊 Data Analysis – Excel
 
-Systems: DBMS, MySQL, Operating System Basics
+🎯 Currently Looking For
 
-Tools: MS Excel, MS Word
+🚀 Internship / Entry-Level role in
+Networking • IT Support • System Roles
 
-📂 Academic Projects
+📫 Connect With Me
 
-Student Management System (Python): Managed structured student records with modular code
+🔗 GitHub
 
-Banking System Simulation (Python): Console-based transaction system with validation logic
+💼 LinkedIn
 
-Data Analysis (Excel): Dataset cleaning, analysis, and summary reporting
-
-🎯 Career Objective
-Seeking an internship or entry-level role in networking, IT support, or system administration where I can apply my technical knowledge, gain real-world exposure, and grow professionally.
-
-📫 Connect with me
-
-GitHub: https://github.com/kaushikajay07
-
-LinkedIn: https://linkedin.com/in/ajay-kaushik-a56b47310
-
-Email: kaushikji7579@gmail.com
+✉️ kaushikji7579@gmail.com
