@@ -1,33 +1,70 @@
-👋 Hey, I'm Ajay Kaushik
+# 👋 Hey, I'm Ajay Kaushik  
 
-🎓 Final-year B.Tech CSE (2022–2026) student
-💻 Interested in Networking, Systems & Python Development
+🎓 **Final-year B.Tech CSE student (2022–2026)**  
+💻 Interested in **Networking, System Fundamentals, Analysis & Python Development**  
+📍 Palwal, Haryana, India  
 
-⚡ What I Work With
+---
 
-🐍 Python, 🗄️ SQL / MySQL
+## ⚡ About Me
+- 🔹 Strong fundamentals in **Computer Networks, DBMS & OS basics**
+- 🔹 Hands-on experience with **Python-based system applications**
+- 🔹 Comfortable working with **structured data & databases**
+- 🔹 Actively looking for **Internship / Entry-level opportunities**
 
-🌐 Computer Networks (OSI, TCP/IP, IP basics)
+---
 
-🧠 OOP, DBMS, OS fundamentals
+## 🛠️ Tech Stack
+**💻 Programming**  
+- Python  
+- SQL  
 
-🛠️ Projects Snapshot
+**🌐 Networking**  
+- OSI Model  
+- TCP/IP Model  
+- LAN / WAN  
+- IP Addressing (Basics)
 
-📌 Student Management System – Python
+**🧠 Core Concepts**  
+- Computer Networks  
+- OOP  
+- DBMS  
+- Operating System Basics  
 
-🏦 Banking System Simulation – Python
+**🧰 Tools**  
+- MySQL  
+- MS Excel  
+- MS Word  
 
-📊 Data Analysis – Excel
+---
 
-🎯 Currently Looking For
+## 📂 Projects
+🔸 **Student Management System (Python)**  
+- Managed structured student records  
+- Implemented modular logic for data handling  
 
-🚀 Internship / Entry-Level role in
-Networking • IT Support • System Roles
+🔸 **Banking System Simulation (Python)**  
+- Console-based transaction system  
+- Applied validations & flow control  
 
-📫 Connect With Me
+🔸 **Data Analysis Projects (Excel)**  
+- Data cleaning & organization  
+- Summary reports using formulas & charts  
 
-🔗 GitHub
+---
 
-💼 LinkedIn
+## 🎯 Career Objective
+🚀 To start my career in **Networking / IT Support / System Roles**,  
+where I can apply my fundamentals, gain real-world exposure,  
+and grow as a professional.
 
-✉️ kaushikji7579@gmail.com
+---
+
+## 🌐 Connect With Me
+- 🐙 GitHub: https://github.com/kaushikajay07  
+- 💼 LinkedIn: https://linkedin.com/in/ajay-kaushik-a56b47310  
+- ✉️ Email: kaushikji7579@gmail.com  
+
+---
+
+⭐ *Always learning. Always improving.*
